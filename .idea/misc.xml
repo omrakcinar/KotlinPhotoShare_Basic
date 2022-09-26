@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/add_icon.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/add_icon_pressed.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/home_icon_pressed.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/ic_baseline_add2_24.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/profile_icon_pressed.xml" value="0.2555" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/storycircle.xml" value="0.2545" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/drawable/topbarbg.xml" value="0.2545" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/layout/activity_photo_upload.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/KotlinPhotoShare_Basic/app/src/main/res/layout/recycler_row.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

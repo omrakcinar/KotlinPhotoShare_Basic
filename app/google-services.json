@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76232540148",
+    "project_id": "photoshareapp-31e12",
+    "storage_bucket": "photoshareapp-31e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76232540148:android:594f060f50122fa18243a1",
+        "android_client_info": {
+          "package_name": "com.omerakcinar.kotlinphotoshare_basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76232540148-143kk6nhr35tvuq98aa79hs59gkmsmnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5jGBLIWqjPwfrXxg7rvR6DClXFKDP8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76232540148-143kk6nhr35tvuq98aa79hs59gkmsmnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
